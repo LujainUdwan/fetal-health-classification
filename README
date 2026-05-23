@@ -9,15 +9,8 @@ Classes
 - 3 — Pathological
 
 Dataset
-- 2126 records, 22 features
-- Source: Kaggle — Fetal Health Classification
+Source: Kaggle — Fetal Health Classification
 
-Models Used
-- Logistic Regression — Baseline model
-- SVM RBF Kernel — Best single model
-- Random Forest — Good with feature selection
-- Gradient Boosting — Strong ensemble learner
-- Voting Classifier — Combined all models soft voting
 
 What I Did
 - Exploratory Data Analysis EDA
