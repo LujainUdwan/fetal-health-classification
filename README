@@ -1,0 +1,34 @@
+Fetal Health Classification
+
+A machine learning project to classify fetal health into 3 categories
+based on Cardiotocography (CTG) exam data.
+
+Classes
+- 1 — Normal
+- 2 — Suspect
+- 3 — Pathological
+
+Dataset
+- 2126 records, 22 features
+- Source: Kaggle — Fetal Health Classification
+
+Models Used
+- Logistic Regression — Baseline model
+- SVM RBF Kernel — Best single model
+- Random Forest — Good with feature selection
+- Gradient Boosting — Strong ensemble learner
+- Voting Classifier — Combined all models soft voting
+
+What I Did
+- Exploratory Data Analysis EDA
+- Correlation heatmap and scatter plots
+- Feature selection based on correlation
+- Hyperparameter tuning with GridSearchCV
+- 5-Fold Cross Validation
+
+Tech Stack
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib, Seaborn
+
