@@ -1,25 +1,8 @@
-Fetal Health Classification
-
-A machine learning project to classify fetal health into 3 categories
-based on Cardiotocography (CTG) exam data.
-
-Classes
-- 1 — Normal
-- 2 — Suspect
-- 3 — Pathological
-
-Dataset
-Source: Kaggle — Fetal Health Classification
-
-
-What I Did
-- Exploratory Data Analysis EDA
-- Correlation heatmap and scatter plots
-- Feature selection based on correlation
-- Hyperparameter tuning with GridSearchCV
-- 5-Fold Cross Validation
-
-Tech Stack
-- Python , Pandas, NumPy, Scikit-learn
-
-
+# Fetal Health Classification
+I built this project while learning more about machine learning and data analysis. I wanted to understand how classification models work on real medical data and how different features can affect predictions.
+The project focuses on classifying fetal health into three categories using Cardiotocography (CTG) exam data: Normal, Suspect, and Pathological.
+While working on this project, I learned how to explore datasets, analyze relationships between features, improve model performance, and evaluate models properly instead of only focusing on accuracy.
+I also practiced using tools like GridSearchCV and cross validation to better understand how machine learning models are tuned and tested.
+For the project, I performed Exploratory Data Analysis (EDA), created correlation heatmaps and scatter plots, selected important features based on correlation, and applied hyperparameter tuning with 5-Fold Cross Validation.
+Tech stack used in this project includes Python, Pandas, NumPy, Scikit-learn, Matplotlib, and Seaborn.
+Dataset source: Kaggle — Fetal Health Classification
